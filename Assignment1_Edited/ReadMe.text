@@ -1,0 +1,14 @@
+Read me file:
+
+Name: Ipsa Mishra
+Student ID: 1001759616
+
+System used: macOS
+Programming language used: Python
+
+There are two source code files (kmeans.py and knn.py) containing code fork means, kin-classifier, knn-regressor and LWR and one coding file for computation of error(kmeans_accuracy.py)
+
+Run the code on Spyder
+
+References:
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#k-NN_regression
